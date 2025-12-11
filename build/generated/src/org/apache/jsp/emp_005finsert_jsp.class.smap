@@ -1,0 +1,18 @@
+SMAP
+emp_005finsert_jsp.java
+JSP
+*S JSP
+*F
++ 0 emp_insert.jsp
+emp_insert.jsp
+*L
+5,6:59
+11,13:12
+23,8:64
+31:72,3
+32,6:75
+38,64:82
+101,2:146
+103:148,3
+104,5:151
+*E
